@@ -1,0 +1,4 @@
+baseURL = 'https://ttanigaki.github.io/'
+languageCode = 'en-us'
+title = 'tuna-test'
+theme = 'hugo-clarity'
